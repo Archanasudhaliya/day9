@@ -1,0 +1,17 @@
+
+.G{
+    text-underline-position: auto;
+text-align: center;
+;}
+.our{
+    text-align: center;
+}
+*{background-color:black}
+@media only screen and (max-width:767px) {
+    .maincontainer{
+        display: flex;
+        flex-direction: column;
+        /*justify-content: center;
+        align-items: center;*/
+        padding: 10px;
+        margin: 10px;
